@@ -12,44 +12,43 @@
 # The list should contain only names of instructors.
 # make sure you name the list ruby_experience before returning it.
 
-def has_ruby_exp():
-    ruby_experience = []
+# def has_ruby_exp():
+#     ruby_experience = []
 
-    experience = {
-        'jimmy': {
-            'bjj': False,
-            'soccer': False,
-            'ruby': True,
-            'baking': True,
-            'biking': True,
-            'pasta': False
-        },
-        'don': {
-            'bjj': False,
-            'soccer': False,
-            'ruby': True,
-            'baking': True,
-            'biking': False,
-            'pasta': False
-        },
-        'zakk': {
-            'bjj': False,
-            'soccer': False,
-            'ruby': True,
-            'baking': False,
-            'biking': False,
-            'pasta': True
-        },
-        'hector': {
-            'bjj': True,
-            'soccer': True,
-            'ruby': False,
-            'baking': False,
-            'biking': True,
-            'pasta': False
-        }
-    }
-
+#     experience = {
+#         'jimmy': {
+#             'bjj': False,
+#             'soccer': False,
+#             'ruby': True,
+#             'baking': True,
+#             'biking': True,
+#             'pasta': False
+#         },
+#         'don': {
+#             'bjj': False,
+#             'soccer': False,
+#             'ruby': True,
+#             'baking': True,
+#             'biking': False,
+#             'pasta': False
+#         },
+#         'zakk': {
+#             'bjj': False,
+#             'soccer': False,
+#             'ruby': True,
+#             'baking': False,
+#             'biking': False,
+#             'pasta': True
+#         },
+#         'hector': {
+#             'bjj': True,
+#             'soccer': True,
+#             'ruby': False,
+#             'baking': False,
+#             'biking': True,
+#             'pasta': False
+#         }
+#     }
 
 
 # #3: Create a method called toggle_str_num that takes an argument. If the
@@ -57,7 +56,6 @@ def has_ruby_exp():
 # argument is an integer, convert it to a string and return the string; If the
 # argument is neither a string nor an integer, return the string "this is not a
 # str or a int":
-
 
 
 # Commit when you finish working on these questions!
